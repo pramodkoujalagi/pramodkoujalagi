@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodkoujalagi&label=Profile%20views&color=0e75b6&style=flat" alt="pramodkoujalagi" /> </p>
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-Computer Science Graduate, worked as a Application Developer Intern and Product Development Intern. Experienced in Python, Java, Go, C#, C, C++, MySQL, PostgreSQL, Docker, AWS, Flutter, HTML, CSS, JavaScript and AI&ML. I try to excel at creating and deploying projects on AI, Web, and Mobile Applications. I thrive on pushing boundaries and staying at the forefront of technology, ensuring exceptional results. Let's embark on a journey together to make a lasting impact and drive innovation in the world of technology.
+Computer Science graduate, worked as a Application Developer Intern and Product Development Intern. Skilled in AI&ML, Python, Java, Go, AWS, Docker, MySQL, Flutter, C, C#, C++, HTML, CSS, JavaScript. I try to excel at creating and deploying projects on AI, Web, and Mobile Applications. I thrive on pushing boundaries and staying at the forefront of technology, ensuring exceptional results. Let's embark on a journey together to make a lasting impact and drive innovation in the world of technology.
 
-<h4>I’m looking to collaborate on Open-Source Projects<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
+<h4>I’m looking to collaborate on Open-Source AI Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
