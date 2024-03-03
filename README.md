@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://pramodkoujalagi.io)
+[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://pramodkoujalagi.io)
+
 <h1 align="center">Hi there!👋 I'm Pramod Koujalagi, CS Grad 23"❤ </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,7 +14,7 @@ Computer Science graduate, worked as a Application Developer Intern and Product 
  <!-- CONNECT WITH ME LINKS -->
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-koujalagi-370b13198) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkoujalagipk@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodkoujalagi) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkoujalagipk@gmail.com) 
  
   
  <!-- START NEW SECTION -->
@@ -28,8 +29,16 @@ Computer Science graduate, worked as a Application Developer Intern and Product 
   <h2 align="center">Some of my 🏆🫰</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sharath-majjigi&theme=radical&margin-w=40&margin-h=40)](https://github.com/pramodkoujalagi)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pramodkoujalagi&theme=radical&margin-w=40&margin-h=40)](https://github.com/pramodkoujalagi)
 
+<hr>
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Pramod's github stats](https://github-readme-stats.vercel.app/api?username=pramodkoujalagi&show_icons=true&theme=dark&hide_title=true)](https://github.com/pramodkoujalagi)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkoujalagi&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/pramodkoujalagi)|![Pramod Koujalagi](https://github-readme-streak-stats.herokuapp.com/?user=pramodkoujalagi&theme=dark)
 <hr>
 
 <!-- START NEW SECTION -->
