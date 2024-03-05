@@ -34,7 +34,8 @@ Computer Science graduate, worked as a Application Developer Intern and Product 
 <hr>
 <!-- START NEW SECTION -->
 <p align="center">
- <h2 align="center">My Github Stats</h2>
+ <!--<h2 align="center">My Github Stats</h2>
+ -->
 
 |My languages|Streaks|
 |-|-|
