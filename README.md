@@ -36,11 +36,13 @@ Computer Science graduate, worked as a Application Developer Intern and Product 
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Pramod's github stats](https://github-readme-stats.vercel.app/api?username=pramodkoujalagi&show_icons=true&theme=dark&hide_title=true)](https://github.com/pramodkoujalagi)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkoujalagi&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/pramodkoujalagi)|![Pramod Koujalagi](https://github-readme-streak-stats.herokuapp.com/?user=pramodkoujalagi&theme=dark)
+|My languages|Streaks|
+|-|-|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkoujalagi&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/pramodkoujalagi)|![Pramod Koujalagi](https://github-readme-streak-stats.herokuapp.com/?user=pramodkoujalagi&theme=dark)
 <hr>
 
+<!--|[![Pramod's github stats](https://github-readme-stats.vercel.app/api?username=pramodkoujalagi&show_icons=true&theme=dark&hide_title=true)](https://github.com/pramodkoujalagi)
+-->
 <!-- START NEW SECTION -->
 <div align="center">
  <br>
