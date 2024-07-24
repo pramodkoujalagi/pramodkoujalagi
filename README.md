@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodkoujalagi&label=Profile%20views&color=0e75b6&style=flat" alt="pramodkoujalagi" /> </p>
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-🌟<strong>LinkedIn Top AI Voice | Top Machine Learning voice</strong>🌟
+🌟<strong>LinkedIn Top AI Voice | Top Machine Learning voice</strong>
 <br>
 Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. With a Bachelor of Engineering in Computer Science and Engineering, I bring a extensive wealth of expertise in the field of Data Science, Artificial Intelligence & Machine Learning. My passion for technology has been a driving force throughout my journey, fueled by a profound fascination with the extraordinary capabilities of AI. With a commitment to innovation, I am dedicated to exploring and contributing to the dynamic landscape of Artificial Intelligence. My interests extend to Generative AI, where I seek to push the boundaries of what is achievable in this evolving field.
 
