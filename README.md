@@ -19,8 +19,7 @@ Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. W
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodkoujalagi) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkoujalagipk@gmail.com) 
  
   
- <!-- START NEW SECTION -->
-<!--  TOP Technologies That I use Daily  -->
+
 
  
 
