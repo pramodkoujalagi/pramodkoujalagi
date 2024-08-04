@@ -55,3 +55,10 @@ Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. W
 <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 <br>
   </p>
+
+<!--
+<p align="center">
+<a href="https://gist.github.com/pramodkoujalagi"><img src="https://profile-counter.glitch.me/{pramodkoujalagi}/count.svg" alt="pramodkoujalagi :: Visitor's Count" /></a>
+</p>
+-->
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="e" style="max-width: 100%;">
