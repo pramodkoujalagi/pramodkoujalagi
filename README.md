@@ -37,11 +37,25 @@ Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. W
 <p align="center">
  <!--<h2 align="center">My Github Stats</h2>
  -->
-
+<!--
 |My languages|Streaks|
 |-|-|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkoujalagi&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/pramodkoujalagi)|![Pramod Koujalagi](https://github-readme-streak-stats.herokuapp.com/?user=pramodkoujalagi&theme=dark)
 <hr>
+-->
+
+<p align="center">
+
+<a href="https://github.com/pramodkoujalagi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=pramodkoujalagi&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="Pramod's github-readme-stats"/></a>
+<a href="https://github.com/pramodkoujalagi?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=pramodkoujalagi&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Pramod's github-readme-streak-stats"/></a>
+
+</p>
+
+<p align="center">
+    <a href="https://www.pramodkoujalagi.com">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodkoujalagi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
 <!--|[![Pramod's github stats](https://github-readme-stats.vercel.app/api?username=pramodkoujalagi&show_icons=true&theme=dark&hide_title=true)](https://github.com/pramodkoujalagi)
 -->
