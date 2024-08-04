@@ -20,7 +20,7 @@ Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. W
  
   
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
+<a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
  
 
 
