@@ -32,7 +32,6 @@ Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. W
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pramodkoujalagi&theme=radical&margin-w=40&margin-h=40)](https://github.com/pramodkoujalagi)
 
-<hr>
 <!-- START NEW SECTION -->
 <p align="center">
  <!--<h2 align="center">My Github Stats</h2>
@@ -43,6 +42,8 @@ Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. W
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodkoujalagi&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/pramodkoujalagi)|![Pramod Koujalagi](https://github-readme-streak-stats.herokuapp.com/?user=pramodkoujalagi&theme=dark)
 <hr>
 -->
+
+<a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
 
 <p align="center">
 
@@ -56,7 +57,7 @@ Currently working as <strong> Data Science & AI Engineer at TeamEpic</strong>. W
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodkoujalagi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-
+<a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
 <!--|[![Pramod's github stats](https://github-readme-stats.vercel.app/api?username=pramodkoujalagi&show_icons=true&theme=dark&hide_title=true)](https://github.com/pramodkoujalagi)
 -->
 <!-- START NEW SECTION -->
