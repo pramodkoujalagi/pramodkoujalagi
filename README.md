@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://www.pramodkoujalagi.com)
 
-<h1 align="center">Hi there!👋 I'm Pramod Koujalagi</h1>
+<h1 align="center">Hi there!👋 I'm Pramod</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodkoujalagi&label=Profile%20views&color=0e75b6&style=flat" alt="pramodkoujalagi" /> </p>
@@ -10,7 +10,7 @@
 <br>
 With a Bachelor of Engineering in <strong>Computer Science and Engineering</strong>, I bring a extensive wealth of expertise in the field of Data Science, Artificial Intelligence & Machine Learning. My passion for technology has been a driving force throughout my journey, fueled by a profound fascination with the extraordinary capabilities of AI. With a commitment to innovation, I am dedicated to exploring and contributing to the dynamic landscape of Artificial Intelligence. My interests extend to Generative AI, where I seek to push the boundaries of what is achievable in this evolving field.
 
-<h4>I’m looking to collaborate on Open-Source AI Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
+<h4>I'm looking to collaborate on Open-Source AI Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
@@ -21,8 +21,9 @@ With a Bachelor of Engineering in <strong>Computer Science and Engineering</stro
 -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodkoujalagi)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkoujalagipk@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pramodkoujalagi.com)
-  
+
+  <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pramodkoujalagi.com)
+  -->
 <a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
 
 <p align="center">
