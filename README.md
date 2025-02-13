@@ -10,7 +10,7 @@
 <br>
 With a Bachelor of Engineering in Computer Science and Engineering, I bring an extensive wealth of expertise in Data Science, Artificial Intelligence & Machine Learning, with knowledge in Transformers and Large Language Models (LLMs). My passion for technology has been a driving force throughout my journey, fueled by a profound fascination with the extraordinary capabilities of Neural Networks and their applications. With a commitment to innovation, I am dedicated to exploring and contributing to the dynamic landscape of AI, particularly in the development and optimization of Transformer architectures. I am especially interested in Generative AI and the advancement of LLMs, where I seek to push the boundaries of what is achievable in this rapidly evolving field.
 
-<!-- START NEW SECTION -->
+<!-- START NEW SECTION 
 <h3>Textleap AI📱</h3>
 
  <p align="left">
@@ -27,8 +27,39 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
     <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="250"/>
   </a>
 </p>
+-->
 
-<h4>I'm looking to collaborate on Open-Source AI Projects <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
+<!-- APP SHOWCASE SECTION -->
+<h2 align="center">Textleap AI📱</h2>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.textleap.ai">
+    <img src="./assets/logo.png" alt="Textleap AI Logo" width="250" height="250"/>
+   
+  </a>
+<!--   <br/>
+  <a href="https://play.google.com/store/apps/details?id=com.textleap.ai">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="250"/>
+  </a>
+</p> -->
+
+
+<p align="center">
+  Developed a small mobile app as a side project while working with Convolutional Neural Networks. The app allows users to insert text behind the subject in an image, as well as on top of the subject/image.
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.textleap.ai">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.textleap.ai">
+    <img src="https://img.shields.io/badge/Status-Live_on_Play_Store-success?style=for-the-badge&logo=google-play" alt="Status"/>
+  </a>
+</p>
+
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
@@ -40,6 +71,8 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodkoujalagi)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkoujalagipk@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pramodkoujalagi.com)
+
+<h4>I'm looking to collaborate on Open-Source AI Projects <img src="./assets/Handshake.gif" width="40px"></h4>
 
 <a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
 
