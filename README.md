@@ -11,7 +11,7 @@
 With a Bachelor of Engineering in Computer Science and Engineering, I bring an extensive wealth of expertise in Data Science, Artificial Intelligence & Machine Learning, with knowledge in Transformers and Large Language Models (LLMs). My passion for technology has been a driving force throughout my journey, fueled by a profound fascination with the extraordinary capabilities of Neural Networks and their applications. With a commitment to innovation, I am dedicated to exploring and contributing to the dynamic landscape of AI, particularly in the development and optimization of Transformer architectures. I am especially interested in Generative AI and the advancement of LLMs, where I seek to push the boundaries of what is achievable in this rapidly evolving field.
 
 <!-- START NEW SECTION -->
-<h3>📱 Check out my small app, launched recently</h3>
+<h3>📱 Check out my small app, recently launched</h3>
 
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.textleap.ai">
