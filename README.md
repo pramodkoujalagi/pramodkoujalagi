@@ -13,9 +13,9 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
 <!-- START NEW SECTION -->
 <h3>📱 Check out my small app, launched recently</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.textleap.ai">
-    <img src="./assets/logo.png" alt="Textleap AI Logo" width="96" height="96"/>
+    <img src="./assets/logo.png" alt="Textleap AI Logo" width="250" height="250"/>
    
   </a>
   <br/>
