@@ -54,12 +54,6 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
   </a>
 </p>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.textleap.ai">
-    <img src="https://img.shields.io/badge/Status-Live_on_Play_Store-success?style=for-the-badge&logo=google-play" alt="Status"/>
-  </a>
-</p>
-
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
