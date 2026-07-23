@@ -86,13 +86,15 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
 
 <a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
 
-<!-- START NEW SECTION -->
+<!-- START NEW SECTION 
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">Some of my 🏆🫰</h2>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pramodkoujalagi&theme=radical&margin-w=40&margin-h=40)](https://github.com/pramodkoujalagi)
+
+-->
 
 <!-- START NEW SECTION -->
 <p align="center">
