@@ -57,7 +57,7 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me<img src="./assets/Handshake.gif" width="40px"></h3>
 
   <!--
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodkoujalagi) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkoujalagipk@gmail.com) 
@@ -66,7 +66,7 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkoujalagipk@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pramodkoujalagi.com)
 
-<h4>I'm looking to collaborate on Open-Source AI Projects <img src="./assets/Handshake.gif" width="40px"></h4>
+<!-- <h4> <img src="./assets/Handshake.gif" width="40px"></h4> -->
 
 <a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
 
@@ -77,14 +77,13 @@ With a Bachelor of Engineering in Computer Science and Engineering, I bring an e
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.pramodkoujalagi.com">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodkoujalagi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p>
+</p> -->
 
 
-<a href="https://www.pramodkoujalagi.com"><img src="./assets/colored.png"  width="100%" alt="Pramod Koujalagi"/></a>
 
 <!-- START NEW SECTION 
 <p align="center">
